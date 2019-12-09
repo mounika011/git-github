@@ -1,1 +1,5 @@
 1st code file
+
+Im not a developer
+
+trying to lear git
